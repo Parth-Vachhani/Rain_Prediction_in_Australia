@@ -1,5 +1,7 @@
 # Rain_Prediction_in_Australia
 
-Classification with Python
+## Aim:
+- To get knowledge about the classification with python problems.
+- 
 
 
